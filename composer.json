@@ -25,7 +25,7 @@
     ],
     "require": {
         "php": "^7.0",
-        "cocur/slugify": "^3.1",
+        "cocur/slugify": "dev-master as 3.1.x-dev",
         "illuminate/config": "~5.7.0",
         "illuminate/database": "~5.7.0",
         "illuminate/support": "~5.7.0"
