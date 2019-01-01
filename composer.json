@@ -17,6 +17,12 @@
             "email": "colin@viebrock.ca"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/SHSharkar/slugify"
+        }
+    ],
     "require": {
         "php": "^7.0",
         "cocur/slugify": "^3.1",
